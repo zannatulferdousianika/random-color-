@@ -1,0 +1,21 @@
+
+body{
+    background-color: blueviolet;
+}
+.colorButton{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 50px;
+    background-color:bisque;
+
+
+}
+
+button{
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+}
